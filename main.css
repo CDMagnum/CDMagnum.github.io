@@ -1,9 +1,17 @@
 div#thewords {
     text-align: center;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #7DF9FF;
+	font-size: 28px;
 }
 h1 {
     text-align: center;
+    color: 	#7DF9FF;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 }
-h2 {
+h3 {
 	text-align: center;
+	-webkit-text-stroke: 1px red;
+	font-size: 20px;
 }
